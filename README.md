@@ -5,4 +5,4 @@ Started 29th September 2024
 
 ## Usage
 
-Each folder correspomdds to the approprate chapter
+Each folder corresponds to the approprate chapter
